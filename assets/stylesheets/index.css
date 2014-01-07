@@ -1,0 +1,24 @@
+/* Styling for index page. */
+
+body {
+    color: #4c4c4c;
+    line-height: 21px;
+    background: #f2f2f2;
+    -webkit-text-stroke: 1px transparent;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+    .container {
+        margin:auto;
+        max-width: 1100px;
+        background-color: #ffffff;
+        
+        border-left:1px solid #d9d9d9;
+        border-right:1px solid #d9d9d9;
+        border-bottom:1px solid #d9d9d9;
+
+        overflow:hidden;
+    }
